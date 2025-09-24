@@ -1,3 +1,6 @@
+编译自用，仅添加了应用图标
+> 尝试过翻译 gui 页面文字，根本运行不了，所以放弃
+
 Note: Use table of contents of quickly navigate to the section you want, e.g., `Installation`. 👆↗
 
 # batt
