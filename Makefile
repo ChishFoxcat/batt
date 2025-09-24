@@ -23,7 +23,7 @@ BIN_PLATFORMS   := darwin/arm64
 # Binary basename (.exe will be automatically added when building for Windows)
 BIN             := batt
 # macOS specific settings
-MACOSX_DEPLOYMENT_TARGET ?= 13.0
+MACOSX_DEPLOYMENT_TARGET ?= 15.0
 
 # Setup make variables
 include makefiles/consts.mk
