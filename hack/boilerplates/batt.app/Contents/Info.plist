@@ -23,7 +23,7 @@
             <string>MacOSX</string>
         </array>
         <key>CFBundleIconFile</key>
-        <string></string>
+        <string>AppIcon.icns</string>
         <key>LSEnvironment</key>
         <dict>
             <key>BATT_RUN_GUI</key>
